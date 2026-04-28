@@ -1,6 +1,6 @@
 # Explanation Systems for Approval-Based Multiwinner Voting
 
-This repository contains the code for the experiments published in "Niclas Boehmer, Luca Kreisel, and Jannik Peters. Explanation Systems for Approval-Based Multiwinner Voting."
+This repository contains the code for the experiments published in ["Niclas Boehmer, Luca Kreisel, and Jannik Peters. Explanation Systems for Approval-Based Multiwinner Voting."](https://arxiv.org/abs/2604.24307)
 
 ## Usage
 The easiest way to reproduce the experiments is to install the [uv package manager](https://github.com/astral-sh/uv#installation) and then run the following command inside the project: 
